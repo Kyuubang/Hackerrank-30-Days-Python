@@ -1,11 +1,19 @@
-def counting(n,s):
-    List = list(s)
-    for i in range(1,n+1):
-        if s[i] == "U":
-            print("_/")
-        else:
-            print("_\n"+" "*i,"\\")
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+List = []
+tester = []
+nums = int(input())
+for i in range(nums):
+    var = list(map(str, input().rstrip().split()))
+    lib = tuple(var)
+    List.append(lib)
+for test in range(nums):
+    test = input()
+    tester.append(test)
+dictionary = dict(List)
 
-
-counting(5,"DU")
-print("_\n"+" "*i,"\\")
+for item in tester:
+    key = dictionary.get(item)
+    if key :
+        print(f'{item}={key}')
+    else:
+        print(f"Not found")
