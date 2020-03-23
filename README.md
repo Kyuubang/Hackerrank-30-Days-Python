@@ -2,4 +2,4 @@
 <p align="center">
   <img src="https://github.com/Kyuubang/example_readme/blob/master/HR-Logo-Main.png"/>
 </p>
-My solutions in Hackerrank 30 Days Challange in Python. If you want to try this challange you can visit link www.hackerrank.com
+My solutions Hackerrank 30 Days Challange in Python. If you want to try this challange you can visit link www.hackerrank.com
