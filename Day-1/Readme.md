@@ -16,5 +16,5 @@ ___
 in this time challange we aimed to find out the type of dat in the programming language and sum both. so we have a algorithm like this. <br />
 
 <p align="center">
-  <img src="https://github.com/Kyuubang/example_readme/blob/master/HR-Logo-Main.png">
+  <img src="https://github.com/Kyuubang/Hackerrank_30_Days/blob/master/Day-1/Day_1_Flowchart.png">
 </p>
