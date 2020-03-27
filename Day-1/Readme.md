@@ -1,4 +1,4 @@
-# Day 1 "Data Types" | Python
+# Day 1 Data Types | Python
 
 <p align="center">
   <img src="https://github.com/Kyuubang/example_readme/blob/master/HR-Logo-Main.png">
