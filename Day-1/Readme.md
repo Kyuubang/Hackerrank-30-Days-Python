@@ -14,3 +14,7 @@ ___
     * Concatenate "s" with the string you read as input and print the result on a new line.
 ### Algorithm
 in this time challange we aimed to find out the type of dat in the programming language and sum both. so we have a algorithm like this. <br />
+
+<p align="center">
+  <img src="https://github.com/Kyuubang/example_readme/blob/master/HR-Logo-Main.png">
+</p>
