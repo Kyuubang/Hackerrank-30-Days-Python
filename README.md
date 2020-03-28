@@ -7,7 +7,7 @@
 
 HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming. <br />
 
-I think HackerRank is once the best programming paradims and fungctionaly. And this is __My solutions__ Hackerrank 30 Days Challange in Python. If you want to try this challange you can visit link www.hackerrank.com. in here contains, algorithm, explained, Flowchart and Solutions Code. if you want other programming leaguange you can click here.
+I think HackerRank is once the best programming paradims and fungctionaly. And this is __solutions__ Hackerrank 30 Days Challange in Python. If you want to try this challange you can visit link www.hackerrank.com. in here contains, algorithm, explained, Flowchart and Solutions Code. if you want other programming leaguange you can click here.
 
 ## Contains
 
