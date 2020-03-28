@@ -13,7 +13,7 @@ ___
     * print the sum of "d" plus your double variable to a scale of one decimal place on a new line.
     * Concatenate "s" with the string you read as input and print the result on a new line.
 ### Algorithm
-in this time challange we aimed to find out the type of dat in the programming language and sum both. so we have a algorithm like this. <br />
+in this time challange we aimed to find out the type of data in the programming language and sum both. so we have a algorithm like this. <br />
 
 <p align="center">
   <img src="https://github.com/Kyuubang/Hackerrank_30_Days/blob/master/Day-1/Day_1_Flowchart.png">
