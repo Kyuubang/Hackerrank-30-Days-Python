@@ -1,4 +1,4 @@
-# Day x "Operators" | Python
+# Day 2 "Operators" | Python
 
 <p align="center">
   <img src="https://github.com/Kyuubang/example_readme/blob/master/HR-Logo-Main.png">
