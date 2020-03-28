@@ -1,6 +1,6 @@
 # HackerRank 30 Days | Python
 <p align="center">
-  <img src="https://github.com/Kyuubang/example_readme/blob/master/HR-Logo-Main.png"/>
+  <img src="https://github.com/Kyuubang/Hackerrank_30_Days/blob/master/HR/HR-Logo-Main.png"/>
 </p>
 
 ### What is HackerRank?
