@@ -26,7 +26,7 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 - [x] Day 12 - Inherintance
 - [x] Day 13 - Abstarct Classes
 - [x] Day 14 - Scope
-- [ ] Day 15 - Linked List
+- [x] Day 15 - Linked List
 - [ ] Day 16 - Exceptions - String to Integer
 - [ ] Day 17 - More Exceptions
 - [ ] Day 18 - Queues and Stacks
