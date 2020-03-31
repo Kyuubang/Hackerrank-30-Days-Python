@@ -32,6 +32,16 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 - [ ] Day 18 - Queues and Stacks
 - [ ] Day 19 - Interfaces
 - [ ] Day 20 - Sorting
+- [ ] Day 21 -
+- [ ] Day 22 -
+- [ ] Day 23 -
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
 
 <p align="right">
   © March Kyuubang Readme Update
