@@ -16,7 +16,7 @@ ___
 in this time challange we aimed to find out the type of data in the programming language and sum both. so we have a algorithm like this. <br />
 
 <p align="center">
-  <img src="https://github.com/Kyuubang/Hackerrank_30_Days/blob/master/Day-1/flowchart.png">
+  <img src="https://github.com/Kyuubang/Hackerrank-30-Days-Python/blob/master/Day%201/flowchart.png">
 </p><br />
 
 <p align="right">
