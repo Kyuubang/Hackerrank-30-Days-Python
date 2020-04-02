@@ -44,5 +44,5 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 - [ ] Day 30
 
 <p align="right">
-  © March Kyuubang Readme Update
+  © April Kyuubang Readme Update
 </p>
