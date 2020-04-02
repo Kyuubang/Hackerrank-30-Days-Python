@@ -18,6 +18,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum
   <img src="https://github.com/Kyuubang/Hackerrank-30-Days-Python/blob/master/Day%202/flowchart-all.jpg">
 </p>
 
+___
 ### Solve Algorithm
 
 <p align="center">
