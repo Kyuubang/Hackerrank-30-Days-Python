@@ -19,6 +19,3 @@ in this time challange we aimed to find out the type of data in the programming 
   <img src="https://github.com/Kyuubang/Hackerrank-30-Days-Python/blob/master/Day%201/flowchart.png">
 </p><br />
 
-<p align="right">
-  © March Kyuubang Readme Update
-</p>
