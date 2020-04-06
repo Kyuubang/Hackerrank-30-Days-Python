@@ -30,7 +30,7 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 - [x] Day 16 - Exceptions - String to Integer
 - [x] Day 17 - More Exceptions
 - [x] Day 18 - Queues and Stacks
-- [ ] Day 19 - Interfaces
+- [x] Day 19 - Interfaces
 - [x] Day 20 - Sorting
 - [ ] Day 21 - Generics
 - [x] Day 22 - Binary Search Trees
