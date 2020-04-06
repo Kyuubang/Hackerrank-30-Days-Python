@@ -1,19 +1,22 @@
 import sys
 
 class Solution:
-    def __init__(self, s):
-        
-    def pushCharacter(s):
-        stack = s.pop(0)
-        return stack
-    def enqueueCharacter(s):
-        dequeue = s[0]
-        return  dequeue
-    def
-
-
-
-
+    # create empety list to appended character
+    def __init__(self):
+        self.stack = []
+        self.queue = []
+    # appending character to self.stack's empety list
+    def pushCharacter(self, character):
+        self.stack.append(character)
+    # appending queue's list
+    def enqueueCharacter(self, character):
+        self.queue.append(character)
+    # get last character of stack list
+    def popCharacter(self):
+        return (self.stack.pop())
+    # get first character of queue list
+    def dequeueCharacter(self):
+        return (self.queue.pop(0))
 
 # read the string s
 s=input()
