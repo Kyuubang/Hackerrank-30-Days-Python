@@ -1,6 +1,10 @@
 #Write your code here
-class Calculator:
-    def power(n,p):
+class Calculator(object):
+    def power(self, n, p):
+        if (n>0) and (p>0):
+            return(n**p)
+        elif (n<0) or (p<0):
+            raise Exception("n and p should be non-negative")
 
 
 myCalculator=Calculator()
@@ -11,4 +15,4 @@ for i in range(T):
         ans=myCalculator.power(n,p)
         print(ans)
     except Exception as e:
-        print(e)   
+        print(e)
