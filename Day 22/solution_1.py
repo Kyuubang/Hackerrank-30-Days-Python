@@ -17,7 +17,12 @@ class Solution:
 
     def getHeight(self,root):
         #Write your code here
-        return root
+        if root:
+            left = 1 + self.getHeight(root.left)
+            right = 1 + self.getHeight(root.right)
+            return (max(left,right))
+        else :
+            return -1
 
 T=int(input())
 myTree=Solution()
