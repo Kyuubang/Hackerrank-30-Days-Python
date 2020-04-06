@@ -28,8 +28,8 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 - [x] Day 14 - Scope
 - [x] Day 15 - Linked List
 - [x] Day 16 - Exceptions - String to Integer
-- [ ] Day 17 - More Exceptions
-- [ ] Day 18 - Queues and Stacks
+- [x] Day 17 - More Exceptions
+- [x] Day 18 - Queues and Stacks
 - [ ] Day 19 - Interfaces
 - [x] Day 20 - Sorting
 - [ ] Day 21 -
