@@ -1,22 +1,20 @@
-x = input()
-y = input()
-x = x.split()
-y = y.split()
-year = x.pop()
-years = y.pop()
-x.pop()
-y.pop()
-print(x)
-print(y)
-print(year)
-print(years)
-# if year > years:
-#     print(10000)
-# else :
-#     hackos = [15,500]
-#     for i in ((range(2))[::-1]):
-#         if int(x[1 2i]) > int(y[i]):
-#             print(int(x[i])-int(y[i]))*(hackos[i])
-#             break
-#         print(0)
-#         break
+import random
+
+
+class TestDataExactlyTwoDifferentMinimums(object):
+    arr2 = []
+    for i in range(10):
+        var2 = random.randint(0,20)
+        arr2.append(var2)
+
+    @staticmethod
+    def get_array():
+        # complete this function
+        data2 = TestDataExactlyTwoDifferentMinimums.arr2
+        return data2
+
+    @staticmethod
+    def get_expected_result():
+        # complete this function
+        min2 = TestDataExactlyTwoDifferentMinimums.get_array()
+        return minimum_index(min2)
