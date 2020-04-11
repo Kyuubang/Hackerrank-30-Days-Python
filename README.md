@@ -45,9 +45,10 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 - [x] Day 29 - Bitwise AND
 
 ## Contribute
-if you have another solutions, you can put your solution in here and you can mention your github account at commited.
+If you have another solutions, you can put your solution in here and you can mention your github account at commited.
+<br />
+<br />
+
+> Copyright © April Kyuubang Readme
 
 
-<p align="right">
-  Copyright © April Kyuubang Readme Update
-</p>
