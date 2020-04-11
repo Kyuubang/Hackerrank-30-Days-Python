@@ -1,3 +1,5 @@
+<img src="MyGoldBadge" align="right" />
+
 # HackerRank 30 Days | Python
 <p align="center">
   <img src="https://github.com/Kyuubang/Hackerrank_30_Days/blob/master/HR/HR-Logo-Main.png"/>
@@ -44,5 +46,5 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 
 
 <p align="right">
-  © April Kyuubang Readme Update
+  Copyright © April Kyuubang Readme Update
 </p>
