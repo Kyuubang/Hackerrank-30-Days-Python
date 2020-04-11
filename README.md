@@ -1,4 +1,4 @@
-<img src="https://github.com/Kyuubang/Hackerrank-30-Days-Python/blob/master/HR/MyGoldBadge.jpeg" align="right" width="100" height="200" />
+<img src="https://github.com/Kyuubang/Hackerrank-30-Days-Python/blob/master/HR/iconfinder_160_Hackerrank_logo_logos_4373713.png" align="right" width="15%" />
 
 # HackerRank 30 Days | Python
 <p align="center">
