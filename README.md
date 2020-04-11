@@ -32,15 +32,15 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 - [x] Day 18 - Queues and Stacks
 - [x] Day 19 - Interfaces
 - [x] Day 20 - Sorting
-- [ ] Day 21 - Generics
+- [x] Day 21 - Generics
 - [x] Day 22 - Binary Search Trees
 - [x] Day 23 - BST Level-Order Traversal
 - [x] Day 24 - More Linked Lists
 - [x] Day 25 - Running Time and Complexity
 - [x] Day 26 - Nested Logic
-- [ ] Day 27 - Testing
+- [x] Day 27 - Testing
 - [x] Day 28 - RegEx, Patterns, and Intro to Databases
-- [ ] Day 29 - Bitwise AND
+- [x] Day 29 - Bitwise AND
 
 
 <p align="right">
