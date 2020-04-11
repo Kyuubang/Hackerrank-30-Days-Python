@@ -44,6 +44,9 @@ I think HackerRank is once the best programming paradims and fungctionaly. And t
 - [x] Day 28 - RegEx, Patterns, and Intro to Databases
 - [x] Day 29 - Bitwise AND
 
+## Contribute
+if you have another solutions, you can put your solution in here and you can mention your github account at commited.
+
 
 <p align="right">
   Copyright © April Kyuubang Readme Update
